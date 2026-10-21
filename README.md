@@ -7,4 +7,4 @@ C++ examples for stack and queue data structures, organized in `stack_queue/`.
 - `stack_queue/queue_array.cpp`
 - `stack_queue/valid_parentheses.cpp`
 
-Prepared on 2026-10-21.
+Prepared on 2026-10-13.
